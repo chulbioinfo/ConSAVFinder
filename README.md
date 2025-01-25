@@ -1,5 +1,5 @@
 # Overview: CSAV analysis
-As a comparative genomics approach, CSAV analysis aims to identify convergent amino acid variants among species from polyphyletic clades. This repository includes source codes and data sets for CSAV analysis in Lee et al.
+As a comparative genomics approach, Convergent Amino acid Variant Finder (ConSAV Finder) analysis aims to identify convergent amino acid variants among species from polyphyletic clades. This repository includes source codes and data sets for ConSAV Finder analysis in Lee et al.
 
 ## Contents
   **1. CSAV**: to detect convergent single amino acid variants of polyphyletic species from independent lineages
@@ -31,4 +31,4 @@ As a comparative genomics approach, CSAV analysis aims to identify convergent am
 This project is covered under the Apache 2.0 License.
 
 # Reference
-Lee et al. Rules of amino acid convergence: Not how many, but who in avian vocal learning clades. Preparing submission.
+Lee et al. Insights into Convergent Evolution from Studying Amino Acid Patterns in Independent Lineages of Vocal learning and Other Birds. Revision in _Genome Biology and Evolution_.
