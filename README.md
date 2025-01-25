@@ -1,4 +1,4 @@
-# Overview: CSAV analysis
+# Overview: ConSAV Finder
 As a comparative genomics approach, Convergent Amino acid Variant Finder (ConSAV Finder) analysis aims to identify convergent amino acid variants among species from polyphyletic clades. This repository includes source codes and data sets for ConSAV Finder analysis in Lee et al.
 
 ## Contents
