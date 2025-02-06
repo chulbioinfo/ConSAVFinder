@@ -4,11 +4,17 @@ This script to run convergent variant finder (ConVarFinder) analysis to idenify 
 It needs multiple peptide sequence aglinments as input files (as [fasta](https://en.wikipedia.org/wiki/FASTA_format) format).
 ## Variables in Script
 -l=    strings of list of target species as comma seperated (csv)
+
 -ttf=  input file of templete tree
+
 -tfmt= file format of binary tree with ancestral nodes
+
 -sfmt= file format of input with ancestral reconstructions
+
 -ip=   input path
+
 -op=   output path  
+
 ## Output Files
 It generates a text file (.txt) as a output with a summary of CSAV analysis and the full amino acids of whole species list at identified CSAV sites.
 - - -
