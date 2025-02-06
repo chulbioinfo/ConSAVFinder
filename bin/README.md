@@ -30,10 +30,7 @@ This script is supported for *Windows OS* and *Linux*. The script has been teste
 * Linux: Ubuntu 18.04.3 LTS
 
 ## Python Dependencies
-This script mainly depends on the Python scientific stack.
-
-    numpy
-    scipy
+This script has no dependency in python ver 3.13.
 
 ## Running time with the demo data
 * under 1 sec
